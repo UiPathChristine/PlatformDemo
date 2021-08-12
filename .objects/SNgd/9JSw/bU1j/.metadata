@@ -1,0 +1,14 @@
+﻿{
+  "Id": "bU1jtoYc4kGoPT8YyrXKvg",
+  "Reference": "M87uQHVWe0y7aP1w-dA5Zw/bU1jtoYc4kGoPT8YyrXKvg",
+  "ParentRef": "M87uQHVWe0y7aP1w-dA5Zw/9JSwLwKdkUS9e9aNAOIUpA",
+  "Name": "CareersPage",
+  "Type": "Screen",
+  "TaxonomyType": "Screen",
+  "Created": "2021-07-26T18:17:28.087234Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=21.4.3.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=21.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2021-07-26T18:17:28.087234Z"
+}

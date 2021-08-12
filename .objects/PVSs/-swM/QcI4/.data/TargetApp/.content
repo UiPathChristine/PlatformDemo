@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-16"?>
+<TargetApp Area="0, 0, 0, 0" BrowserType="Chrome" ContentHash="PHQtRRdeJ0SBXcVsnOe88Q" Selector="&lt;html app='chrome.exe' title='Top Stock Gainers Today - Yahoo Finance'/&gt;" Url="https://finance.yahoo.com/gainers" xmlns="http://schemas.uipath.com/workflow/activities/uix">
+  <imageRef attrName="IconBase64" xmlns="">0ue5LPILcLEK37FGMb9FjJA</imageRef>
+  <imageRef attrName="InformativeScreenshot" originalValue="3599d8c8d2129c4349a6da0d4b52ce10.png" xmlns="">0VbmdjN500U-VfM1zUauTJg</imageRef>
+</TargetApp>

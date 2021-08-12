@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-16"?>
+<TargetApp Area="-8, -8, 1936, 1056" BrowserType="Chrome" ContentHash="ZTjqIQkrDECRoLZBLJc7-A" Selector="&lt;html app='chrome.exe' title='Workers’ Comp, Property &amp;amp; Auto Insurance | ICW Group'/&gt;" Url="https://www.icwgroup.com/" xmlns="http://schemas.uipath.com/workflow/activities/uix">
+  <imageRef attrName="IconBase64" xmlns="">0ljxMRiNi90axwthtROIgBA</imageRef>
+  <imageRef attrName="InformativeScreenshot" originalValue="121ce63c20534ea69cd20473afa2b383.png" xmlns="">044Y1ctN5DkS2hCurWZymcg</imageRef>
+</TargetApp>

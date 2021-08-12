@@ -1,0 +1,14 @@
+﻿{
+  "Id": "MrBF3x2lAE-s22HG856_5w",
+  "Reference": "M87uQHVWe0y7aP1w-dA5Zw/MrBF3x2lAE-s22HG856_5w",
+  "ParentRef": "M87uQHVWe0y7aP1w-dA5Zw/bU1jtoYc4kGoPT8YyrXKvg",
+  "Name": "Data Table",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Created": "2021-07-26T18:17:41.447867Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=21.4.3.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=21.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2021-07-26T18:17:41.447867Z"
+}

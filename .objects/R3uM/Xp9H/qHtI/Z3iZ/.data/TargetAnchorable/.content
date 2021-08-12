@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-16"?>
+<TargetAnchorable BrowserURL="https://www.icwgroup.com/" ContentHash="icNiNor340qoJxIWWVGFtA" DesignTimeRectangle="1155, 854, 275, 41" ElementType="Text" FriendlyName="'Browse Open Jobs'" FullSelectorArgument="&lt;webctrl parentid='post-125' tag='A' /&gt;" FuzzySelectorArgument="&lt;webctrl parentid='post-125' tag='A' type='' aaname='Browse Open Jobs' check:text='Browse Open Jobs' /&gt;" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Workers’ Comp, Property &amp;amp; Auto Insurance | ICW Group' /&gt;" SearchSteps="FuzzySelector, Image" xmlns="http://schemas.uipath.com/workflow/activities/uix">
+  <imageRef attrName="ImageBase64" xmlns="">0k6N8gElU1UmN_E0qMGQuQA</imageRef>
+  <imageRef attrName="InformativeScreenshot" originalValue="205c7e4ac998a46f781308bfac3a824f.png" xmlns="">0keS7DF0JtkKRfE9WmrZBng</imageRef>
+</TargetAnchorable>

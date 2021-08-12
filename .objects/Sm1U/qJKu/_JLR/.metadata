@@ -1,0 +1,14 @@
+﻿{
+  "Id": "_JLRijMa4E29wVmrT0k24A",
+  "Reference": "M87uQHVWe0y7aP1w-dA5Zw/_JLRijMa4E29wVmrT0k24A",
+  "ParentRef": "M87uQHVWe0y7aP1w-dA5Zw/qJKuhurPAU-YJgyWNPQZCQ",
+  "Name": "RPACHallengeHOmeSCreen",
+  "Type": "Screen",
+  "TaxonomyType": "Screen",
+  "Created": "2021-07-07T16:25:27.5898229Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=21.4.3.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=21.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2021-07-07T16:25:27.5898229Z"
+}

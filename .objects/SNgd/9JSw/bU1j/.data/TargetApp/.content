@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-16"?>
+<TargetApp Area="0, 0, 0, 0" BrowserType="Chrome" ContentHash="kGHBmEVTCUq30gQHVschCQ" Selector="&lt;html app='chrome.exe' title='Careers'/&gt;" Url="https://www.asurea.com/careers.html" xmlns="http://schemas.uipath.com/workflow/activities/uix">
+  <imageRef attrName="IconBase64" xmlns="">0vPMU4nwy-kWuiXxi2ER9hw</imageRef>
+  <imageRef attrName="InformativeScreenshot" originalValue="f3534ab56274e0158a2a318823e15dd1.png" xmlns="">04F5jvhe3p0u083KOd2PtMw</imageRef>
+</TargetApp>
