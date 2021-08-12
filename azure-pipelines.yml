@@ -3,15 +3,28 @@
 # Add steps that build, run tests, deploy, and more:
 # https://aka.ms/yaml
 
-trigger:
-- main
+trigger : 
+-  master 
 
-pool:
-  vmImage: 'windows-latest'
+pool : 
+   vmImage :  'windows-latest' 
 
-steps:
-- task: UiPathDeploy@2
-  inputs:
-    orchestratorConnection: 'VelocityConnection'
-    packagesPath: 'project.json'
-    folderName: 'Testing'
+steps : 
+-  task :  UiPathPack@2 
+   inputs : 
+     versionType :  'AutoVersion' 
+     projectJsonPath :  '$(Build.SourcesDirectory)' 
+     orchestratorConnection :  'Orch Test Suite' 
+     outputPath :  '$(Build.ArtifactStagingDirectory)\Output' 
+-  task :  UiPathTest@2 
+   inputs : 
+     testTarget :  'TestProject' 
+     orchestratorConnection :  'Orch Test Suite' 
+     environment :  'Test_Robot_env' 
+     folderName :  'Test Suite' 
+-  task :  UiPathDeploy@2 
+   inputs : 
+     orchestratorConnection :  'Orch Test Suite' 
+     packagesPath :  '$(Build.ArtifactStagingDirectory)\Output' 
+     folderName :  'Test Suite' 
+     environments :  'Test_Robot_env'
