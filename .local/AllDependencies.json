@@ -18122,9 +18122,9 @@
     "restore": {
       "projectUniqueName": "PlatformDemo",
       "projectName": "PlatformDemo",
-      "projectPath": "C:\\Users\\Christine.Moore\\Documents\\Github\\PlatformDemo\\.git\\PlatformDemo\\.local",
+      "projectPath": "C:\\Users\\Christine.Moore\\Documents\\Github\\PlatformDemo\\.local",
       "packagesPath": "C:\\Users\\Christine.Moore\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Christine.Moore\\Documents\\Github\\PlatformDemo\\.git\\PlatformDemo\\.local"
+      "outputPath": "C:\\Users\\Christine.Moore\\Documents\\Github\\PlatformDemo\\.local"
     },
     "frameworks": {
       "net461": {

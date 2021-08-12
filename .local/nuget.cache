@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "8VYaRkdQNGJ2IXiyeJL1H0lJvZnRTsCQ39IvCjEB3zAG/Iv49IMrmE6xN0A+AGrHX0sFz8AjsPO72iWCmoDP5w==",
+  "dgSpecHash": "AJspHHTOhJAxYwJh6YXfe41D5bAjm010WIxj5+NlGf4nj59rcWJQgx57ZTiZw5AdahWFelbmBxgbHFCL/oo/BQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Christine.Moore\\Documents\\Github\\PlatformDemo\\.git\\PlatformDemo\\.local\\",
+  "projectFilePath": "C:\\Users\\Christine.Moore\\Documents\\Github\\PlatformDemo\\.local\\",
   "expectedPackageFiles": [
     "C:\\Users\\Christine.Moore\\.nuget\\packages\\aforge\\2.2.5\\aforge.2.2.5.nupkg.sha512",
     "C:\\Users\\Christine.Moore\\.nuget\\packages\\aforge.genetic\\2.2.5\\aforge.genetic.2.2.5.nupkg.sha512",
